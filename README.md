@@ -1,6 +1,8 @@
+![logo](https://github.com/muazsaeed/muazsaeed/blob/main/BANNER.png)
+
 <h1 align="center">Hi 👋, I'm Muaz Saeed</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
+<img align="right" alt="coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muazsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="muazsaeed" /> </p>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/muazsaeed/AI_projects)
